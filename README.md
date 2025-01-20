@@ -1,2 +1,2 @@
-# AI-Common-Law
-an AI Assistant for lawyer
+# Deloitte Legal - Real Estate Luiss
+an AI Assistant for the master of Luiss and Deloitte
